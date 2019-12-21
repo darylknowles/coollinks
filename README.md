@@ -25,6 +25,8 @@ https://visualstudiomagazine.com/Home.aspx
 
 ## Gaming
 [Lutris](https://lutris.net/games/)
+[Humble Bundle](https://www.humblebundle.com/)  
+
 
 ## Retro
 [AROS Research Operating System](http://aros.sourceforge.net/download.php)  
