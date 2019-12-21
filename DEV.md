@@ -16,13 +16,13 @@ https://docs.assemblyscript.org/
 [Awesome Python](https://www.diycode.cc/projects/vinta/awesome-python)
 
 ### Misc.
-[DevDocs.IO - Reference for a lot of stuff](https://devdocs.io/)  
-[DevChat.TV](https://devchat.tv/)  
+[DevDocs.IO - Reference for a lot of stuff](https://devdocs.io/)   
+[DevChat.TV](https://devchat.tv/)    
 https://visualstudiomagazine.com/Home.aspx  
 
 ## Retro
 [AROS Research Operating System](http://aros.sourceforge.net/download.php)  
-[EMU7800 - .NET Atari 7800 emulator](http://emu7800.sourceforge.net/)
+[EMU7800 - .NET Atari 7800 emulator](http://emu7800.sourceforge.net/)  
 [GEOS for C64](https://www.lyonlabs.org/commodore/onrequest/geos/index.html#os)  
 [My Compute Issue 127-02 Page G40](https://www.commodore.ca/gallery/magazines/compute/Compute-127-02.pdf)  
 
