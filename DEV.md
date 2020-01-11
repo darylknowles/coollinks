@@ -6,8 +6,8 @@
 [Angular Material](https://material.angular.io/)  
 
 ### Javascript/Typescript/WebAssembly
-https://jsfiddle.net/user/dashboard/fiddles/  
-https://docs.assemblyscript.org/  
+[Fiddlers](https://jsfiddle.net/user/dashboard/fiddles/)
+[AssemblyScript](https://docs.assemblyscript.org/)
 
 ### Electron & Related
 [Official Docs](https://electronjs.org/docs)
@@ -18,7 +18,7 @@ https://docs.assemblyscript.org/
 ### Misc.
 [DevDocs.IO - Reference for a lot of stuff](https://devdocs.io/)   
 [DevChat.TV](https://devchat.tv/)    
-https://visualstudiomagazine.com/Home.aspx  
+[Visual Studio Magazine](https://visualstudiomagazine.com/Home.aspx)
 
 ## Retro
 [AROS Research Operating System](http://aros.sourceforge.net/download.php)  
@@ -27,12 +27,13 @@ https://visualstudiomagazine.com/Home.aspx
 [My Compute Issue 127-02 Page G40](https://www.commodore.ca/gallery/magazines/compute/Compute-127-02.pdf)  
 
 ## Linux
-https://www.maketecheasier.com/6-tools-to-easily-create-your-own-custom-linux-distro/  
-http://www.bandshed.net/avlinux/  
-https://buildroot.org/  
-https://support.system76.com/articles/desktop-environment/  
-https://help.ubuntu.com/community/Installation/MinimalCD  
-https://flathub.org/home  
+[Tools to create your own Linux distro](https://www.maketecheasier.com/6-tools-to-easily-create-your-own-custom-linux-distro/)  
+[AV Linux...linux for Audio/Visual workstations](http://www.bandshed.net/avlinux/)  
+[Buildroot: Make embedded Linux Easy](https://buildroot.org/)
+[PopOS! article on changing desktop env](https://support.system76.com/articles/desktop-environment/)  
+[Ubuntu Minimal](https://help.ubuntu.com/community/Installation/MinimalCD)
+[Flathub](https://flathub.org/home)
+
 
 
 
