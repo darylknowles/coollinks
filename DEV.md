@@ -10,7 +10,9 @@
 [AssemblyScript](https://docs.assemblyscript.org/)
 
 ### Electron & Related
-[Official Docs](https://electronjs.org/docs)
+[Official Docs](https://electronjs.org/docs)  
+[Electron-Log](https://github.com/megahertz/electron-log)   
+[Electron-Util - useful utilities for Electron](https://github.com/sindresorhus/electron-util)   
 
 ### Python and related
 [Awesome Python](https://www.diycode.cc/projects/vinta/awesome-python)
