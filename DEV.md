@@ -2,6 +2,7 @@
 
 ### Web Tech  
 [Offline Cookbook](https://developers.google.com/web/fundamentals/instant-and-offline/offline-cookbook/)  
+[WebAssembly Developer Guide](https://webassembly.org/getting-started/developers-guide/)  
 
 ### Angular & Related
 [Official Docs](https://angular.io/docs)  
