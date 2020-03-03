@@ -1,5 +1,8 @@
 # Development
 
+### Web Tech  
+[Offline Cookbook](https://developers.google.com/web/fundamentals/instant-and-offline/offline-cookbook/)  
+
 ### Angular & Related
 [Official Docs](https://angular.io/docs)  
 [Angular CLI Official Docs](https://cli.angular.io/)  
