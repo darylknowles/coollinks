@@ -26,6 +26,8 @@
 [DevChat.TV](https://devchat.tv/)    
 [Visual Studio Magazine](https://visualstudiomagazine.com/Home.aspx)  
 [RegEx101](https://regex101.com/) 
+[Bootsketch](http://yago.github.io/Bootsketch/)  
+
 
 ## Retro
 [AROS Research Operating System](http://aros.sourceforge.net/download.php)  
