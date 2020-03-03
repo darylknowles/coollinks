@@ -20,7 +20,7 @@
 ### Misc.
 [DevDocs.IO - Reference for a lot of stuff](https://devdocs.io/)   
 [DevChat.TV](https://devchat.tv/)    
-[Visual Studio Magazine](https://visualstudiomagazine.com/Home.aspx)
+[Visual Studio Magazine](https://visualstudiomagazine.com/Home.aspx)  
 [RegEx101](https://regex101.com/) 
 
 ## Retro
