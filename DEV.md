@@ -25,7 +25,7 @@
 [DevDocs.IO - Reference for a lot of stuff](https://devdocs.io/)   
 [DevChat.TV](https://devchat.tv/)    
 [Visual Studio Magazine](https://visualstudiomagazine.com/Home.aspx)  
-[RegEx101](https://regex101.com/) 
+[RegEx101](https://regex101.com/)   
 [Bootsketch](http://yago.github.io/Bootsketch/)  
 
 
