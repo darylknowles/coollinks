@@ -17,6 +17,8 @@
 [Official Docs](https://electronjs.org/docs)  
 [Electron-Log](https://github.com/megahertz/electron-log)   
 [Electron-Util - useful utilities for Electron](https://github.com/sindresorhus/electron-util)   
+[Electron Apps](https://www.electronjs.org/apps)  
+
 
 ### Python and related
 [Awesome Python](https://www.diycode.cc/projects/vinta/awesome-python)
