@@ -8,7 +8,7 @@
 [Angular CLI Official Docs](https://cli.angular.io/)  
 [Angular Material](https://material.angular.io/)  
 ### Javascript/Typescript/WebAssembly
-[Fiddlers](https://jsfiddle.net/user/dashboard/fiddles/)
+[Fiddlers](https://jsfiddle.net/user/dashboard/fiddles/)  
 [AssemblyScript](https://docs.assemblyscript.org/)
 ### Electron & Related
 [Official Docs](https://electronjs.org/docs)  
